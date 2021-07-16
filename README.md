@@ -4,7 +4,7 @@
 
 This is the code used for the simulation to verify the results of the paper, "A Population Model with Stochastic Processes and a Fitness Mechanic." It is primarily a population simulation, which outputs results in .csv files.
 
-**Paper Authors:** Raj Joshi, Parth Adhia, Mihir Rastogi, Aditya Agashe, Gil Shteyman
+**Paper Authors:** Parth Adhia, Raj Joshi Mihir Rastogi, Aditya Agashe, Gil Shteyman
 
 ---
 
