@@ -14,6 +14,5 @@ We create a simulation modeling population growth, building upon the work of D J
 
 **Keywords:** Population Simulation, Spatial Growth, Stochastic Modeling, Asymptotic Behavior
 
-**[Link to Paper](/assets/NHSJS.pdf)** 
+**[Link to Paper](/assets/Paper.pdf)** 
 
-**Published in the International Journal of Scientific Research and Engineering Trends**: [Link](https://ijsret.com/wp-content/uploads/2020/07/IJSRET_V6_issue4_547.pdf)
